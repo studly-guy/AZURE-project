@@ -1,0 +1,9 @@
+{
+	"name": "spotify-azure-project-99",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33721914-9aa7-4216-a206-3c001065f559",
+		"tenantId": "ca62e659-227f-48d4-be05-a8f1592d073f"
+	}
+}
